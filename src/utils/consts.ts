@@ -1,0 +1,5 @@
+export const MAIN_ROUTE = '/'
+export const AUTH_ROUTE = '/auth'
+export const ORDER_ROUTE = '/order/:id'
+export const ORDERS_ROUTE = '/orders'
+export const ERROR_ROUTE = '/error'
